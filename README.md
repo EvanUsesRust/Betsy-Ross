@@ -1,6 +1,6 @@
 # Betsy-Ross
 
-Arduino-based animatronic prop with three independently controlled modules: a spool rig, an animated face, and a synchronized light show.
+Arduino-based animatronic project with three independently controlled modules: a spool rig, an animated face, and a synchronized light show.
 
 ---
 
